@@ -1,0 +1,67 @@
+{
+  "frontend": {
+    "status": "Completed",
+    "priority": "medium",
+    "card_id": "67fcc550d811816f4a94d78e"
+  },
+  "development": {
+    "status": "In Progress",
+    "priority": "medium",
+    "card_id": null
+  },
+  "web design": {
+    "status": "Completed",
+    "priority": "medium"
+  },
+  "frontend design": {
+    "status": "In Progress",
+    "priority": "medium"
+  },
+  "start the design": {
+    "status": "In Progress",
+    "priority": "medium",
+    "card_id": null
+  },
+  "web development": {
+    "status": "Completed",
+    "priority": "medium",
+    "card_id": null
+  },
+  "running the web design": {
+    "status": "In Progress",
+    "priority": "medium"
+  },
+  "backend development": {
+    "status": "In Progress",
+    "priority": "medium"
+  },
+  "client onboarding docs": {
+    "status": "In Progress",
+    "priority": "medium"
+  },
+  "backend": {
+    "status": "Completed",
+    "priority": "medium",
+    "card_id": "67fcbd14f593dfa1812be9d4"
+  },
+  "build algorithm": {
+    "status": "To Do",
+    "priority": "medium",
+    "card_id": "67fcbe083a41db14d160819b"
+  },
+  "start the backend": {
+    "status": "To Do",
+    "priority": "medium",
+    "card_id": "67fcc276cefa8ba0b2a8af41"
+  },
+  "start frontend development": {
+    "status": "To Do",
+    "priority": "medium",
+    "card_id": "67fcc2c723b29a72f5ceb2fa"
+  },
+  "frontend web design": {
+    "status": "Completed",
+    "priority": "medium",
+    "card_id": "67fcc59dccac99ec4e3aba72"
+  }
+}
